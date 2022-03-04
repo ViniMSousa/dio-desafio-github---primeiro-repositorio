@@ -1,3 +1,9 @@
 [Download do Git](https://git-scm.com/)
 
 [Link para o site do GitHub](https://github.com/) 
+
+##Passos para mandar arquivos de um repositório local para repositório remoto:
+
+* git add .
+* git commit -m "..."
+* git push origin main
